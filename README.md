@@ -1,14 +1,20 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Nikolay%20Akulinin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Telegram%20bots%20%E2%80%A2%20AI%20agents%20%E2%80%A2%20Automation&descSize=16&descAlignY=58&descColor=7ecce8)](https://nexusbots.ru)
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@nikeli33-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikeli33)
-[![VK](https://img.shields.io/badge/VKontakte-@nikeli33-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id2778777)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-напишите-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79269084814)
-[![Website](https://img.shields.io/badge/Сайт-nexusbots.ru-16213e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusbots.ru)
-[![Email](https://img.shields.io/badge/Email-nexusbots.studio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexusbots.studio@gmail.com)
+![Header](header.svg)
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@nikeli33-00eeff?style=for-the-badge&logo=telegram&logoColor=00eeff&labelColor=050d1a)](https://t.me/nikeli33)
+[![VK](https://img.shields.io/badge/VKontakte-@nikeli33-00eeff?style=for-the-badge&logo=vk&logoColor=00eeff&labelColor=050d1a)](https://vk.com/id2778777)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-написать-00eeff?style=for-the-badge&logo=whatsapp&logoColor=00eeff&labelColor=050d1a)](https://wa.me/79269084814)
+[![Website](https://img.shields.io/badge/nexusbots.ru-ff2d55?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=050d1a)](https://nexusbots.ru)
+[![Email](https://img.shields.io/badge/Gmail-ff2d55?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050d1a)](mailto:nexusbots.studio@gmail.com)
+
+</div>
 
 ---
 
-## 🤖 Привет, я Николай
+## `[ SYSTEM_INIT ]` Привет, я Николай
 
 Создаю AI-инструменты для бизнеса: Telegram-боты, автоматизация процессов, веб-приложения. Быстро — от идеи до запуска.
 
@@ -24,7 +30,7 @@
 
 ---
 
-## 🚀 Проекты / Projects
+## `[ PROJECTS_LOADED ]` 🚀 Проекты
 
 | Проект | Описание |
 |---|---|
@@ -43,26 +49,30 @@
 
 ---
 
-## 🛠️ Стек технологий / Tech Stack
+## `[ STACK_OVERRIDE ]` 🛠️ Стек технологий
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)]()
-[![Claude AI](https://img.shields.io/badge/Claude%20AI-D4613C?style=for-the-badge&logo=anthropic&logoColor=white)]()
-[![Bitrix24](https://img.shields.io/badge/Битрикс24-FF0000?style=for-the-badge&logo=bitrix24&logoColor=white)]()
-[![amoCRM](https://img.shields.io/badge/amoCRM-15A0EA?style=for-the-badge&logo=salesforce&logoColor=white)]()
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=050d1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=050d1a)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=050d1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=050d1a)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=050d1a)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=050d1a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=050d1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=050d1a)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=050d1a)
+![Telegram API](https://img.shields.io/badge/Telegram_API-00eeff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050d1a)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=050d1a)
+![Claude AI](https://img.shields.io/badge/Claude_AI-ff2d55?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=050d1a)
+![Bitrix24](https://img.shields.io/badge/Битрикс24-FF0000?style=for-the-badge&logoColor=white&labelColor=050d1a)
+![amoCRM](https://img.shields.io/badge/amoCRM-15A0EA?style=for-the-badge&logoColor=white&labelColor=050d1a)
+
+</div>
 
 ---
 
-## 💼 Услуги / Services
+## `[ SERVICES_AVAILABLE ]` 💼 Услуги
 
 | Услуга | Описание | Стоимость |
 |---|---|---|
@@ -74,7 +84,7 @@
 
 ---
 
-## 📡 Где меня найти / Contacts
+## `[ CONTACTS_OPEN ]` 📡 Где меня найти
 
 | | |
 |---|---|
@@ -87,8 +97,12 @@
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer)](https://nexusbots.ru)
+<div align="center">
 
-*Если есть задача — пиши. Разберём и запустим.*
+[![Написать](https://img.shields.io/badge/%E2%9E%9C_ОБСУДИТЬ_ПРОЕКТ-00eeff?style=for-the-badge&logo=telegram&logoColor=050d1a&labelColor=050d1a)](https://t.me/nikeli33)
 
-[![Написать](https://img.shields.io/badge/%E2%9E%9C%20Обсудить%20проект-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikeli33)
+<br/>
+
+![Footer](footer.svg)
+
+</div>
