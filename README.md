@@ -34,8 +34,8 @@
 
 | Проект | Описание |
 |---|---|
-| [🔴 Eva Dragon](https://evadragon.nexusbots.ru) | AI-ассистент-секретарь в Telegram |
-| [🕵️ Spectre](https://nikeli33.github.io/spectre) | Ассистент по кибербезопасности |
+| [🔴 Eva Dragon](https://neural-awakening.nexusbots.ru) | AI-ассистент-секретарь в Telegram |
+| [🕵️ Spectre](https://spectre.nexusbots.ru) | Ассистент по кибербезопасности |
 | [🛒 China Trade](https://china.nexusbots.ru) | Магазин-конструктор с AI-функционалом |
 | [⚖️ ЮрАудитор](https://law.nexusbots.ru) | Аудит сайта на соответствие 152-ФЗ |
 | [📊 Финансовый AI-анализ](https://app.nexusbots.ru) | Аналитика компании по ИНН |
