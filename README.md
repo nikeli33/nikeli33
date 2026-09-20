@@ -34,6 +34,13 @@
 
 | Проект | Описание |
 |---|---|
+| [👨‍💼 Смена](https://smena.nexusbots.ru/) | Аренда ИИ-сотрудников: отвечает на звонки и в чатах 24/7, ведёт диалог без скриптов и записывает клиентов в CRM |
+| [📣 Posti](https://posti.nexusbots.ru/) | Автопостинг в соцсети по расписанию с AI-генерацией контента и публикацией через официальные API |
+| [🧾 KonturAI](https://konturai.nexusbots.ru/) | Проверка контрагентов: ЕГРЮЛ, ЕГРИП, отчётность, суды + AI-скоринг рисков |
+| [🎯 Leads с диагнозом](https://leads.nexusbots.ru/) | Поиск компаний с анализом отзывов, выявлением болей и скорингом лидов |
+| [🧠 OpenGates](https://opengates.pw/) | Единый API для 300+ AI-моделей (GPT, Claude, Gemini и др.) — без VPN и зарубежных карт |
+| [🛡️ BlurGuard](https://blurguard.nexusbots.ru/) | Размытие чувствительных данных на экране в один клик — для звонков и демонстраций |
+| [🧑‍💻 HRnext](https://hr-next.nexusbots.ru/) | Кадровое агентство: находим специалистов там, где другие не ищут |
 | [🔴 Eva Dragon](https://neural-awakening.nexusbots.ru) | AI-ассистент-секретарь в Telegram |
 | [🕵️ Spectre](https://spectre.nexusbots.ru) | Ассистент по кибербезопасности |
 | [🛒 China Trade](https://china.nexusbots.ru) | Магазин-конструктор с AI-функционалом |
